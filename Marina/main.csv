@@ -1,0 +1,4 @@
+login,password,name,dateBirth,status
+Вася,123,Василий,05.08.1987,admin
+ko,lo,леша,03.01.05,user
+ho,ho,никита,08.05.2000,user
